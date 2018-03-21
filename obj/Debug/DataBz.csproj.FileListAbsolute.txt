@@ -1,0 +1,11 @@
+D:\Program\C#\DataBz\DataBz\bin\Debug\DataBz.exe.config
+D:\Program\C#\DataBz\DataBz\bin\Debug\DataBz.exe
+D:\Program\C#\DataBz\DataBz\bin\Debug\DataBz.pdb
+D:\Program\C#\DataBz\DataBz\bin\Debug\MySql.Data.dll
+D:\Program\C#\DataBz\DataBz\bin\Debug\MySql.Data.xml
+D:\Program\C#\DataBz\DataBz\obj\Debug\DataBz.Form1.resources
+D:\Program\C#\DataBz\DataBz\obj\Debug\DataBz.Properties.Resources.resources
+D:\Program\C#\DataBz\DataBz\obj\Debug\DataBz.csproj.GenerateResource.Cache
+D:\Program\C#\DataBz\DataBz\obj\Debug\DataBz.exe
+D:\Program\C#\DataBz\DataBz\obj\Debug\DataBz.pdb
+D:\Program\C#\DataBz\DataBz\obj\Debug\DataBz.csprojResolveAssemblyReference.cache
